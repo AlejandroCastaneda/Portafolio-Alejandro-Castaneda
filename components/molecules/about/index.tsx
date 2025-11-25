@@ -6,7 +6,7 @@ export default function About() {
             <div className="flex gap-5 justify-between px-px">
                 <div className=" flex-col self-start">
                     <div className="mt-5"><PrincipalText text="308340391"/></div>
-                    <div className="mt-5"><PrincipalText text="daco1994vr@gmail.com"/></div>
+                    <div className="mt-5"><PrincipalText text="daco1994vr@gmail"/></div>
                     <div className="mt-5"><PrincipalText text="Medellín"/></div>
                 </div>
             </div>

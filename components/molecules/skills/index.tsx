@@ -23,12 +23,12 @@ export default function Skills() {
             </div>
             <Percentage classExtra="w-[70%]"/>
             <div className="flex gap-5 justify-between mt-4 whitespace-nowrap text-color-texto-principal">
-                <PrincipalText text="Power Automate"/>
+                <PrincipalText text="P. Automate"/>
                 <PrincipalText text="55%"/>
             </div>
             <Percentage classExtra="w-[55%]"/>
             <div className="flex gap-5 justify-between mt-4 whitespace-nowrap text-color-texto-principal">
-                <PrincipalText text="Control de versiones"/>
+                <PrincipalText text="GitHub"/>
                 <PrincipalText text="80%"/>
             </div>
             <Percentage classExtra="w-[80%]"/>
