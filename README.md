@@ -1,3 +1,5 @@
+## 🧑‍💻 Portafolio – Alejandro Castañeda
+
 Este proyecto es un portafolio personal desarrollado para mostrar información relevante sobre mí, así como mis habilidades y proyectos. 
 Incluye diferentes secciones como información personal, habilidades, proyectos destacados y formas de contacto.
 
@@ -5,7 +7,7 @@ Incluye diferentes secciones como información personal, habilidades, proyectos 
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/Ingenieria-Web-M-J/Diego-Alejandro-Castaneda-Ossa-portafolio.git
+git clone https://github.com/AlejandroCastaneda/Portafolio-Alejandro-Castaneda.git
 
 
 2. Abre el archivo `page.tsx` en tu navegador web.
@@ -20,7 +22,7 @@ git clone https://github.com/Ingenieria-Web-M-J/Diego-Alejandro-Castaneda-Ossa-p
 
 ## Autor
 
-Alejandro Castañeda - [Alejandro-XIII](https://github.com/Alejandro-XIII)
+Alejandro Castañeda - [AlejandroCastaneda](github https://github.com/AlejandroCastaneda)
 
 ## Vercel
-https://diego-alejandro-castaneda-ossa.vercel.app/
+https://portafolio-alejandro-castaneda.vercel.app/
