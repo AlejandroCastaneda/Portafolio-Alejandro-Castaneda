@@ -4,7 +4,7 @@ import Line from "@components/atoms/line";
 
 export default function Education() {
     return (
-        <div className="w-[93%] flex flex-col items-center mx-8">
+        <div className="w-[91%] flex flex-col items-center mx-8">
             
             {/* Título */}
             <div className="mt-12 text-color-texto">
@@ -40,7 +40,7 @@ export default function Education() {
                 <Line />
                 <Course
                     title="Tecnología en Mantenimiento de equipos de computo, diseño e instalación de cableado estructurado"
-                    institution="SENA"
+                    institution="Servicio Nacional de Aprendizaje"
                     date="2016"
                     description="Formación orientada a la implementación, mantenimiento y administración de infraestructuras de TI. Incluye instalación de cableado estructurado bajo normas internacionales, configuración de redes internas, diagnóstico y mantenimiento preventivo y correctivo de equipos de cómputo, y gestión de hardware y software según requerimientos técnicos. Desarrolla habilidades en soporte técnico, redes, documentación técnica y comprensión de textos en inglés aplicados al entorno tecnológico." />    
             </div>

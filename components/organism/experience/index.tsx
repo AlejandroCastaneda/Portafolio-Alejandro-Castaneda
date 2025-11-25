@@ -4,7 +4,7 @@ import Line from "@components/atoms/line";
 
 export default function Experience() {
     return (
-        <div className="w-[93%] flex flex-col items-center mx-8">
+        <div className="w-[91%] flex flex-col items-center mx-8">
             
             {/* Título */}
             <div className="mt-12 text-color-texto">
