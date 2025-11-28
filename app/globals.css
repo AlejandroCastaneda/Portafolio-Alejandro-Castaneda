@@ -2,19 +2,38 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 
+  Clase utilitaria personalizada que aplica un gradiente de fondo.
+  - bg-gradient-to-br: gradiente que va de la esquina superior izquierda a la inferior derecha.
+  - from-[#0A1A2F]: color inicial del gradiente.
+  - to-[#0E4D92]: color final del gradiente.
+  Esta clase se usa como color primario para fondos.
+*/
 .color-primary {
   @apply bg-gradient-to-br from-[#0A1A2F] to-[#0E4D92];
 }
 
+/* 
+  Clase para aplicar un borde con el color principal (#0E4D92).
+  Centraliza el color en una sola clase por si en el futuro se quiere modificar.
+*/
 .border-primary {
   @apply border-[#0E4D92];
 }
 
+/* 
+  Clase para textos de color oscuro dentro del esquema principal.
+  Útil para títulos o textos que necesiten destacar sin usar blanco.
+*/
 .text-primary-dark {
   @apply text-[#0A1A2F];
 }
 
-
+/* 
+  Evita que el contenido pueda hacer scroll horizontal.
+  - overflow-x: hidden; fuerza que todo lo que sobresalga horizontalmente se oculte,
+    evitando movimientos molestos al desplazarse.
+*/
 html, body {
   overflow-x: hidden;
 }
