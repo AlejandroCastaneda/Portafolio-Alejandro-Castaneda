@@ -14,9 +14,9 @@ export default function Portfolio() {
             {/* Primera fila de proyectos */}
             <div className="flex justify-between mt-8 px-8">
                 <BlogPost
-                    title="Modelo de prueba"
-                    description="Página de ejemplo mientras subo el modelo."
-                    url="https://example.com"
+                    title="Genealogía"
+                    description="Aplicación interactiva para explorar mi árbol genealógico mediante visualizaciones dinámicas."
+                    url="https://genealogia-6vz9base8kgkzzn32uqb7b.streamlit.app/arbol"
                 />
                 <BlogPost
                     title="Modelo de prueba"
