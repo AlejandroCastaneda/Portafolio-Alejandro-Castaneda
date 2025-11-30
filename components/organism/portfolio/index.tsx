@@ -16,7 +16,7 @@ export default function Portfolio() {
                 <BlogPost
                     title="Genealogía"
                     description="Aplicación interactiva para explorar mi árbol genealógico mediante visualizaciones dinámicas."
-                    url="https://genealogia-6vz9base8kgkzzn32uqb7b.streamlit.app/arbol"
+                    url="https://genealogia-6vz9base8kgkzzn32uqb7b.streamlit.app/"
                 />
                 <BlogPost
                     title="Modelo de prueba"
