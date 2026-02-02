@@ -19,7 +19,7 @@ export default function About() {
                 <div className="flex-col self-start">
                     {/* Cada dato con margen superior para separarlos */}
                     <div className="mt-5">
-                        <PrincipalText text="308340391" />
+                        <PrincipalText text="3235502754" />
                     </div>
 
                     <div className="mt-5">

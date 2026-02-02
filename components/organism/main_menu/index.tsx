@@ -18,7 +18,7 @@ export default function MainMenu() {
                 </div>
 
                 {/* Cargo o título profesional */}
-                <div className="flex justify-between">
+                <div className="flex justify-between whitespace-nowrap">
                     <div className="pr-1">
                         <Title title="Analista de datos" />
                     </div>
@@ -30,7 +30,7 @@ export default function MainMenu() {
                 </div>
 
                 {/* Botón de descarga del CV */}
-                <div className="mt-7">
+                <div className="mt-7 mb-10">
                     <a href="/CV_Alejandro.pdf" download>
                         <Button>
                             Descargar HdV
