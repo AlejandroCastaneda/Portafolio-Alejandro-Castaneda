@@ -19,9 +19,9 @@ export default function Portfolio() {
                     url="https://genealogia.onrender.com/"
                 />
                 <BlogPost
-                    title="Modelo de prueba"
-                    description="Página de ejemplo mientras subo el modelo."
-                    url="https://example.com"
+                    title="Precios vehiculos"
+                    description="Aplicación interactiva que utiliza machine learning para estimar precios de vehículos usados."
+                    url="https://carpricesstreamlitapp.onrender.com"
                 />
                 <BlogPost
                     title="Modelo de prueba"
